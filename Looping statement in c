@@ -1,0 +1,10 @@
+#include<studio.h>
+Int main()
+{
+  Int I=0;
+  For(i=1;I<=10,I++)
+  {
+    Printf("Hello,fellow earthlings.\n");
+  }
+  Return 0;
+}
